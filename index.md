@@ -1,4 +1,3 @@
-# Progarmming Practice Problems
+## Progarmming Practice Problems
 
-[QuizJet](http://adapt2.sis.pitt.edu/quizjet/)
-Java tracing short answer questions. 
+<a href="http://adapt2.sis.pitt.edu/quizjet/" target="_blank">QuizJet</a> - Java tracing short answer questions. 
